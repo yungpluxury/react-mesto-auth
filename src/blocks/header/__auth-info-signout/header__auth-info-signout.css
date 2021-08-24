@@ -1,0 +1,22 @@
+.header__auth-info-signout {
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    line-height: 22px;
+    cursor: pointer;
+    transition: opacity 0.7s ease;
+    background-color: #000;
+    border: none;
+    margin-left: 24px;
+    padding: 0;
+  }
+  
+  .header__auth-info-signout:hover {
+    opacity: .6;
+  }
+  
+  .header__auth-info-signout:focus {
+    outline: none;
+  }
